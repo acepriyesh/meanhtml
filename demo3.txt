@@ -1,0 +1,4 @@
+<!-- no need to repeat basic structure everytime you create a new .html doc.
+Open VSCOde->your html folder->+add new file->
+just use ! -> tab or -> enter. will give you basic html stucture. (12 lines inclusing <!DOCTYPE html)
+or doc -> tab or -> enter will give you 11 lines without <!DOCTYPE html>.

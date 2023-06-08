@@ -1,0 +1,9 @@
+add/change title (which shows in the tab)
+	<title>title
+	</title>
+change backround color of whole body:
+	<body bgcolor="color">
+	</body>
+text size default. To make it bigger for headings use <h1> biggest to <h6> smallest.
+	<h1>Hi Welcome to web App<h1>
+	Heading tags are only up to <h6> so anyhting above <h7> are not considered as html tags but the text inside those nontags will be rendered in default size.
